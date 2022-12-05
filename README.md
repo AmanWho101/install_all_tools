@@ -1,6 +1,8 @@
 # BBHT
 
-Bug Bounty Hunting Tools is a script to install the most popular tools used while looking for vulnerabilities for a bug bounty program.
+https://bugbountyforum.com/tools/Bug read me first
+
+Bounty Hunting Tools is a script to install the most popular tools used while looking for vulnerabilities for a bug bounty program.
  
 # Tools
 
